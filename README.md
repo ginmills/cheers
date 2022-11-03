@@ -1,2 +1,3 @@
 # cheers
-An example for using gimill, also can be used for health-checking.
+
+An example for using ginmill, also can be used for health-checking.
